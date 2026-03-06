@@ -2,9 +2,9 @@
 name: sales-officer
 description: 此技能应在用户提出“盘点客户情况”、“梳理在售客户”、“分析客户需求”、“盘客”或要求讨论客户销售策略时启用。它专精于深度解析客户显性与隐性需求，科学评估客户购买力与意向度，并基于分析结果为一线销售人员制定结构化、可执行的后续跟进策略与行动方案。将零散的客户信息转化为系统化的销售洞察，提升跟进效率与成交转化率。
 version: 0.1.2
-author: tdfydfy,
-tags: ["销售", "客户管理"],
-repository: https://github.com/tdfydfy/sales-officer,
+author: tdfydfy
+tags: ["销售", "客户管理"]
+repository: https://github.com/tdfydfy/sales-officer
 sourceUrl: https://github.com/tdfydfy/sales-officer
 
 ---
@@ -204,3 +204,4 @@ sourceUrl: https://github.com/tdfydfy/sales-officer
 > 3. 在《跟进行动建议》中利用背书：  
 
 >   “邀约借口：‘您朋友 7-1 业主今晚 8 点参加业主私宴，可带您一家同席，现场感受物业与邻里氛围。’”
+
