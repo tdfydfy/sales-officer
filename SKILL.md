@@ -1,11 +1,8 @@
 ---
 name: sales-officer
 description: 此技能应在用户提出“盘点客户情况”、“梳理在售客户”、“分析客户需求”、“盘客”或要求讨论客户销售策略时启用。它专精于深度解析客户显性与隐性需求，科学评估客户购买力与意向度，并基于分析结果为一线销售人员制定结构化、可执行的后续跟进策略与行动方案。将零散的客户信息转化为系统化的销售洞察，提升跟进效率与成交转化率。
-version: 0.2
+version: 0.2.0
 author: tdfydfy
-tags: ["销售", "客户管理"]
-repository: https://github.com/tdfydfy/sales-officer
-sourceUrl: https://github.com/tdfydfy/sales-officer
 
 ---
 # 销售盘客专家系统
@@ -133,3 +130,4 @@ sourceUrl: https://github.com/tdfydfy/sales-officer
 - ✅ 信息不足时主动追问，确保分析的准确性
 - ✅ 策略建议需具体可执行，避免空泛描述
 - ✅ 优先引用参考文档中的标准与框架，保持分析的一致性
+
